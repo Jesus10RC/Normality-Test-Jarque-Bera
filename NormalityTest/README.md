@@ -19,3 +19,6 @@ To perform the Jarque-Bera Normality Test, we must obtain some Statistical Indic
 
 And with this we can perform its Normality Test, where the result of each of these indicators can be viewed in the Spyder IDE Console, along with the Viewing of their respective Histogram. We will even be able to visualize the Arrays of the observations in the "Variables Explorer", where we will be able to see a million simulations.
 It should be clarified that since it is a Million of Simulated Returns, the simulation will stop until it finds a series of returns that are NOT Normal.
+
+
+Practice elaborated in:
