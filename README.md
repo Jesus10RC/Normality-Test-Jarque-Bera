@@ -24,4 +24,3 @@ It should be clarified that since it is a Million of Simulated Returns, the simu
 
 Practice elaborated in: [Seminario Finanzas Cuantitativas - Facultad de Ciencias UNAM](http://www.fciencias.unam.mx/docencia/horarios/presentacion/318034)
 
-YouTube Channel: [Finanzas Cuantitativas Py - PhD Mauricio Labadie](https://www.youtube.com/channel/UCIb7RV0c34YqI9Vgbf1R9Zg/videos)
